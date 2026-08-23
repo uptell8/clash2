@@ -7,7 +7,7 @@ DOMAIN-KEYWORD,gemini
 DOMAIN-KEYWORD,foxit.com
 DOMAIN-KEYWORD,platformio.org
 DOMAIN-KEYWORD,contabostorage.com
-DOMAIN-KEYWORD,spotify
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
@@ -30,4 +30,4 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,poe.com
-DOMAIN-SUFFIX,spotify.com
+
